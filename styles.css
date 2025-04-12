@@ -271,7 +271,7 @@ footer .copyright {
 
 @media screen and (max-width: 480px) {
     main .texto {
-        margin-top: 28px;
+        margin-top: 20px;
     }
     
     main .texto p {

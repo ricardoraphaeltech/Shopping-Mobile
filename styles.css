@@ -277,6 +277,7 @@ footer .copyright {
     main .texto p {
         width: 270px;
         font-size: 17px;
+        line-height: 28px;
     }
 
     main img {

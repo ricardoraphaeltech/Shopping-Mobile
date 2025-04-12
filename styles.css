@@ -314,7 +314,7 @@ footer .copyright {
 
 @media screen and (max-width: 393px) {
     main .texto {
-        margin-top: 50px;
+        margin-top: 10px;
     }
 
     main .texto h1 {
@@ -332,7 +332,7 @@ footer .copyright {
 
     main img {
         width: 210px;
-        bottom: 100px;
+        bottom: 50px;
     }
 
     main .texto button {

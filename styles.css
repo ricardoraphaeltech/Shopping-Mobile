@@ -271,18 +271,18 @@ footer .copyright {
 
 @media screen and (max-width: 480px) {
     main .texto {
-        margin-top: 20px;
+        margin-top: 30px;
     }
 
     main .texto h1 {
-        margin-bottom: 12px;
+        margin-bottom: 14px;
     }
     
     main .texto p {
         width: 270px;
         font-size: 17px;
-        line-height: 28px;
-        margin-bottom: 12px;
+        line-height: 29px;
+        margin-bottom: 14px;
     }
 
     main img {

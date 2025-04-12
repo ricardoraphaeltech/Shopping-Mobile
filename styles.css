@@ -314,11 +314,31 @@ footer .copyright {
 
 @media screen and (max-width: 393px) {
     main .texto {
-        margin-top: 65px;
+        margin-top: 50px;
+    }
+
+    main .texto h1 {
+        font-size: 34px;
+        line-height: 48px;
+        margin-bottom: 8px;
+    }
+
+    main .texto p {
+        width: 220px;
+        font-size: 14px;
+        line-height: 28px;
+        margin-bottom: 8px;
     }
 
     main img {
+        width: 210px;
         bottom: 100px;
+    }
+
+    main .texto button {
+        width: 210px;
+        height: 45px;
+        font-size: 20px;
     }
 }
 
@@ -342,7 +362,6 @@ footer .copyright {
     }
 
     main img {
-        width: 210px;
         bottom: 55px;
     }
 

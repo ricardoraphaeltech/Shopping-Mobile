@@ -336,9 +336,9 @@ footer .copyright {
     }
 
     main .texto button {
-        width: 210px;
-        height: 45px;
-        font-size: 20px;
+        width: 150px;
+        height: 35px;
+        font-size: 14px;
     }
 }
 

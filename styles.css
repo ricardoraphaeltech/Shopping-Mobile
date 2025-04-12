@@ -314,11 +314,11 @@ footer .copyright {
 
 @media screen and (max-width: 393px) {
     main .texto {
-        margin-top: 85px;
+        margin-top: 65px;
     }
 
     main img {
-        bottom: 120px;
+        bottom: 100px;
     }
 }
 

@@ -271,16 +271,21 @@ footer .copyright {
 
 @media screen and (max-width: 480px) {
     main .texto {
-        margin-top: 45px;
+        margin-top: 28px;
     }
     
     main .texto p {
         width: 270px;
-        font-size: 18px;
+        font-size: 17px;
     }
 
     main img {
-        width: 270px;
+        width: 260px;
+        bottom: 55px;
+    }
+
+    footer {
+        bottom: 17px;
     }
 }
 
@@ -349,3 +354,7 @@ footer .copyright {
         font-size: 20px;
     }
 }
+
+/* @media screen and (max-width: 1180px) and (orientation: landscape) {
+    
+} */

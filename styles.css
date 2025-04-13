@@ -519,6 +519,10 @@ footer .copyright {
 }
 
 @media screen and (max-width: 873px) and (orientation: landscape) {
+    header ul {
+        margin: 14px 0 14px;
+    }
+
     main {
         height: 37%;
         gap: 90px;

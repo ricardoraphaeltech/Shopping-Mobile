@@ -343,10 +343,11 @@ footer .copyright {
 
     main img {
         bottom: 55px;
+        width: 215px;
     }
 
     footer {
-        bottom: 18px;
+        bottom: 15px;
     }
 
     footer .copyright {

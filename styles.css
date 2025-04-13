@@ -446,7 +446,7 @@ footer .copyright {
     }
 
     main {
-        height: 57%;
+        height: 48%;
     }
 
     main .texto h1 {
@@ -518,7 +518,7 @@ footer .copyright {
     }
 }
 
-@media screen and (max-width: 896px) and (orientation: landscape) {
+@media screen and (max-width: 852px) and (orientation: landscape) {
     header ul {
         margin: 13px 0 13px;
     }

@@ -520,8 +520,8 @@ footer .copyright {
 
 @media screen and (max-width: 873px) and (orientation: landscape) {
     main {
-        height: 41%;
-        gap: 95px;
+        height: 38%;
+        gap: 90px;
     }
 
     main .texto p {

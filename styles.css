@@ -360,6 +360,178 @@ footer .copyright {
     }
 }
 
-/* @media screen and (max-width: 1180px) and (orientation: landscape) {
+@media screen and (max-width: 1180px) and (orientation: landscape) {
+    body::before {
+        width: 35%;
+    }
+
+    header ul {
+        width: 35%;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    header ul li {
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    main {
+        height: 68%;
+        gap: 140px;
+    }
+
+    main .texto {
+        width: 360px;
+    }
+
+    main .texto h1 {
+        font-size: 50px;
+        width: 300px;
+        line-height: 60px;
+        margin-bottom: 8px;
+    }
+
+    main .texto p {
+        font-size: 24px;
+        line-height: 42px;
+    }
+
+    main img {
+        width: 31%;
+    }
+}
+
+@media screen and (max-width: 1040px) and (orientation: landscape) {
+    main {
+        height: 59%;
+        gap: 62px;
+    }
+
+    main .texto {
+        width: 320px;
+    }
     
-} */
+    main .texto h1 {
+        font-size: 42px;
+        width: 250px;
+        line-height: 53px;
+    }
+
+    main .texto p {
+        font-size: 20px;
+        line-height: 37px;
+        margin-bottom: 8px;
+    }
+
+    main .texto button {
+        width: 200px;
+        height: 45px;
+        font-size: 22px;
+    }
+    
+    main img {
+        width: 27%;
+    }
+}
+
+@media screen and (max-width: 962px) and (orientation: landscape) {
+    header ul {
+        margin: 16px 0 16px;
+    }
+
+    header ul li {
+        font-size: 22px;
+    }
+
+    main {
+        height: 57%;
+    }
+
+    main .texto h1 {
+        font-size: 38px;
+        width: 230px;
+        line-height: 43px;
+    }
+
+    main .texto p {
+        font-size: 18px;
+        line-height: 30px;
+        width: 270px;
+    }
+
+    main .texto button {
+        font-size: 20px;
+        width: 170px;
+        height: 40px;
+    }
+    
+    main img {
+        width: 26%;
+    }
+
+    footer {
+        bottom: 16px;
+    }
+
+    footer .copyright {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 896px) and (orientation: landscape) {
+    header ul li {
+        font-size: 18px;
+    }
+
+    main {
+        height: 52%;
+        gap: 105px;
+    }
+
+    main .texto {
+        width: 250px;
+    }
+
+    main .texto h1 {
+        font-size: 34px;
+        width: 215px;
+        line-height: 40px;
+        margin-bottom: 5px;
+    }
+
+    main .texto p {
+        font-size: 16px;
+        line-height: 27px;
+        width: 240px;
+    }
+
+    main .texto button {
+        font-size: 18px;
+        width: 150px;
+        height: 35px;
+    }
+
+    main img {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 896px) and (orientation: landscape) {
+    header ul {
+        margin: 13px 0 13px;
+    }
+
+    main {
+        height: 50%;
+    }
+
+    footer {
+        bottom: 13px;
+    }
+
+    footer .copyright {
+        font-size: 0.9rem;
+    }
+}

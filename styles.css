@@ -446,18 +446,18 @@ footer .copyright {
     }
 
     main {
-        height: 48%;
+        height: 45%;
     }
 
     main .texto h1 {
-        font-size: 38px;
-        width: 230px;
+        font-size: 35px;
+        width: 220px;
         line-height: 43px;
     }
 
     main .texto p {
         font-size: 18px;
-        line-height: 30px;
+        line-height: 28px;
         width: 270px;
     }
 
@@ -468,7 +468,7 @@ footer .copyright {
     }
     
     main img {
-        width: 26%;
+        width: 24%;
     }
 
     footer {
